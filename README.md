@@ -18,17 +18,17 @@ Paypal link go here
 
 #### Mac / Linux
 
-1. Clone this repository with `git clone https://github.com/markus-leben/Gold.main.git`
-or download the [latest release](https://github.com/tomreece/markus-leben/Gold.main/master.zip)
+1. Clone this repository with `git clone https://github.com/markus-leben/gold-main.git`
+or download the [latest release](https://github.com/markus-leben/gold-main/master.zip)
 1. Open Terminal.
-1. Go to the gold-main folder you just cloned or downloaded with `cd /path/to/pucauto`
+1. Go to the gold-main folder you just cloned or downloaded with `cd /path/to/gold-main`
 1. Run `sudo pip install -r requirements.txt` and enter your system password
 when prompted.
 
 #### Windows
 
-1. Clone this repository with `git clone https://github.com/tomreece/pucauto.git`
-or download the [latest release](https://github.com/tomreece/markus-leben/Gold.main/master.zip).
+1. Clone this repository with `git clone https://github.com/markus-Leben/gold-main.git`
+or download the [latest release](https://github.com/markus-leben/good-main/master.zip).
 1. Download Python from https://www.python.org/downloads/
 1. Install Python **IMPORTANT:** Select the check box to **Add python.exe to Path**.
 1. Unzip and open the gold-main folder.
