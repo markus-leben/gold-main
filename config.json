@@ -1,0 +1,14 @@
+{
+  "email": "hoops@mcelroy.family",
+  "password": "It's5:00InMargaritaville",
+
+  "user_blacklist": [],
+  "user_whitelist": [],
+
+  "country_blacklist": [],
+  "country_whitelist": [],
+
+  "update_delay": 86400,
+  "scrape_max": 100000
+
+}
